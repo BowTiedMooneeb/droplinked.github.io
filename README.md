@@ -30,18 +30,18 @@ Through these publishers, brands can then deploy their products to multiple prop
 
 ### On-Chain Settlement
 
-![Trustless and Automatic On-Chain Settlement](.gitbook/assets/ValueChain.jpg)
+![](.gitbook/assets/ValueChain2.jpg)
 
+Settlement of all customer sales and publisher compensation occurs on-chain, with immutable splits defined to producers, owners, distributors, affiliates and partners.
 
+### Network Economics
 
+![ A portion of GMV sales is retained in the Droplinked Treasury](<.gitbook/assets/Network Economics 1.jpg>)
 
+1% of the value of all sales is automatically taken as a fee and reserved in the Droplinked Treasury. Additionally, Publishers and Brands can choose to receive a portion of their settlement value in DROPS tokens. For whatever portion they choose to receive in DROPS, a proportionate amount of the fiat value of their settlement is also reserved in the Droplinked Treasury.
 
+![DROPS tokens give brands a publishers a way to earn additional yield from the growing network](<.gitbook/assets/Network Economics 2.jpg>)
 
-
-&#x20;
-
-Manufacturers, creators, brands and customers all benefit from a decentralized network of smart contract powered product listings used for payout settlements with an ability to vote towards earned yield distributions. Valid network transactions initially recontribute 1% back into an escrow treasury vault for every conversion recorded.
-
-
+Brands and Publishers that choose to receive a portion of their settlement in DROPS can stack their tokens and earn a yield from the total GMV sales of the network. This provides a mechanism for rewarding early adopters, who can quickly generate a stake in the future growth of the network.
 
 ###
