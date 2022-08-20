@@ -18,7 +18,7 @@ Each item listed and sale generated is identified and instantly verifiably on-ch
 
 ### Authorized Publishers
 
-Brands & manufacturers may pre-authorize publishers which may sell and distribute their products, giving brands the power to select their partners, and pre-define contract terms for affiliate sales. As these terms are defined through smart contracts on the Droplinked network, brands can simplify their distribution process and rest assured with maximum transparency and settlement guarantees.&#x20;
+Brands & manufacturers may pre-authorize publishers which may sell and distribute their products, giving brands the power to select their partners and pre-define contract terms for affiliate sales. As these terms are defined through smart contracts on the Droplinked network, brands can simplify their distribution process and rest assured with maximum transparency and settlement guarantees.&#x20;
 
 Through these publishers, brands can then deploy their products to multiple properties through headless solutions solutions that allow:
 
