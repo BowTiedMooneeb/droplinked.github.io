@@ -1,5 +1,5 @@
 ---
-description: Droplinked is a decentralized inventory management and affiliate network
+description: Droplinked is a commerce infrastructure network
 ---
 
 # What is Droplinked?
@@ -8,7 +8,9 @@ description: Droplinked is a decentralized inventory management and affiliate ne
 
 Droplinked is a commerce infrastructure network operating as a decentralized inventory management system for digital and physical goods. Droplinked allow brands to easily tie digital or physical products to NFTs, and distribute these quickly and transparently to publishers that help market and sell their products. Through multiple L1 blockchain integrations, brands can automatically and trustlessly coordinate with publishers to sell their products and settle value.\
 \
-The token is intended to streamline compensation swapped into whatever form of settlement preferred by an authenticated producer (manufacturer or company) or publisher (website, app or marketplace).
+Droplinked utilizes a token that streamlines compensation, swapped into whatever form of settlement preferred by an authenticated producer (manufacturer or company) or publisher (website, app or marketplace).
+
+###
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
