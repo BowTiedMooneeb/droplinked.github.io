@@ -1,4 +1,4 @@
 # Table of contents
 
-* [What is Droplinked?](README.md)
+* [What is droplinked?](README.md)
 * [Tokenomics](tokenomics.md)
