@@ -1,5 +1,5 @@
 ---
-description: droplinked is the decentralized commerce infrastructure network
+description: droplinked is the decentralized commerce infrastructure protocol
 ---
 
 # What is droplinked?
@@ -14,7 +14,7 @@ Historically, centralized platforms and third party intermediaries have taken ex
 
 Droplinked is a commerce infrastructure network operating as a decentralized inventory management and sales tracking system for digital and physical goods.&#x20;
 
-By decentralizing inventory management, droplinked allows authenticated producers to easily tie digital or physical products to NFTs, and distribute these quickly and transparently to publishers that help market and sell their products. Through multiple L1 blockchain integrations, brands can automatically and trustlessly coordinate with publishers to sell their products and settle value. Partnership terms are immutably outlined on-chain to maximize economic efficiency in a secure and transparent fashion.\
+By decentralizing inventory management, droplinked allows authenticated producers to easily tie digital or physical products to NFTs, and distribute these quickly and transparently to publishers that help market and sell their listings. Through multiple L1 blockchain integrations, companies can automatically and trustlessly coordinate with publishers to sell items and settle value. Partnership terms are immutably outlined on-chain to maximize economic efficiency in a secure and transparent fashion.\
 \
 Droplinked utilizes a token, DROPS, that streamlines compensation, swapped into whatever form of settlement preferred by an authenticated producer (manufacturer or company) or publisher (website, app or marketplace). The token can be staked by contributors to earn a yield that scales with network growth.
 
