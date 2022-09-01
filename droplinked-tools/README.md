@@ -22,13 +22,9 @@ To interact with the droplinked protocol, droplinked provides three key tools:
 * **Headless embeddable units for inventory display**
   * Allows producers and publishers to quickly and easily embed droplinked integrated storefronts onto their pages and properties
 
+### Timeline
 
-
-### Traction & Timeline
-
-
-
-These base components of the droplinked protocol have already been built and deployed on the Stacks network. Infrastructure buildout is currently underway for Casper, Solana, Hedera Hashgraph, and Ripple networks, with expected completion in Q1 2023. Polygon, ethereum, near, and flow are in the pipeline.
+The NFT fractionalizer and DIMST registry have already been built and deployed on the Stacks network. Infrastructure buildout is currently underway for Casper, Solana, Hedera Hashgraph, and Ripple networks, with expected completion in Q1 2023. Polygon, ethereum, near, and flow are in the pipeline.
 
 Deployment on each of these networks will allow for commerce settlement in the native token of each respective network and will serve as the foundation for cross-chain interoperability bridges.
 
