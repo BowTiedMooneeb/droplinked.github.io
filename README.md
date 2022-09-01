@@ -67,8 +67,6 @@ Deployment on each of these networks will allow for commerce settlement in the n
 
 Droplinked 1.0 testnet development will begin in 2023. Droplinked 1.0 will tie together the base infrastructure to allow for a holistic cross-chain protocol, complete with token contracts, droplinked treasury, and staking functionality.&#x20;
 
-Additionally, droplinked has established partnerships with several projects and platforms that serve as ecosystem gateways. A sampling of these is listed below.
-
 
 
 
