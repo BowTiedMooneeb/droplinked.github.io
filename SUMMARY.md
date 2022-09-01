@@ -1,5 +1,5 @@
 # Table of contents
 
 * [What is droplinked?](README.md)
-* [Droplinked Tools](droplinked-tools.md)
+* [droplinked tools](droplinked-tools.md)
 * [Tokenomics](tokenomics.md)

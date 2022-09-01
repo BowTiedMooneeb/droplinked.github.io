@@ -1,4 +1,4 @@
-# Droplinked Tools
+# droplinked tools
 
 Learn how to use droplinked tools and endpoints to unlock the power of web3 commerce for as a producer or publisher.
 
