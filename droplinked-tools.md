@@ -19,8 +19,8 @@ To interact with the droplinked protocol, droplinked provides three key tools:
   * Use crypto wallet credentials to authenticate and interact with the droplinked protocol
 * **DIMST Console**
   * CLI and UI for simple execution of product registration, inventory management, sales tracking, and batch operations
-* **Headless embeddable units for inventory display**
-  * Allows producers and publishers to quickly and easily embed droplinked integrated storefronts onto their pages and properties
+* **Embeddables**
+  * Headless embeddable units for inventory display allow producers and publishers to quickly and easily embed droplinked integrated storefronts onto their pages and properties
 
 ### Timeline
 
