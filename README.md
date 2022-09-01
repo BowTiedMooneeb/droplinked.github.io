@@ -6,7 +6,7 @@ description: droplinked is the decentralized commerce infrastructure protocol
 
 ### problem
 
-Historically, centralized platforms and third party intermediaries have taken excess profits across the commerce supply chain by nature of their centralized infrastructure. Droplinked offers a transparent solution through the decentralized registration of products linked to smart contracts.&#x20;
+Centralized platforms and third party intermediaries have taken excess profits across the commerce supply chain by nature of their centralized infrastructure. Droplinked offers a transparent solution through the decentralized registration of products linked to smart contracts.&#x20;
 
 ### droplinked
 
@@ -14,7 +14,7 @@ Historically, centralized platforms and third party intermediaries have taken ex
 
 Droplinked is a commerce infrastructure network operating as a decentralized inventory management and sales tracking system for digital and physical goods.&#x20;
 
-By decentralizing inventory management, droplinked allows authenticated producers to easily tie digital or physical products to NFTs, and distribute these quickly and transparently to publishers that help market and sell their listings. Through multiple L1 blockchain integrations, companies can automatically and trustlessly coordinate with publishers to sell items and settle value. Partnership terms are immutably outlined on-chain to maximize economic efficiency in a secure and transparent fashion.\
+By decentralizing inventory management, droplinked allows authenticated producers to easily tie digital or physical products to NFTs, and distribute these quickly and transparently to publishers that help to market and sell their listings. Through multiple blockchain integrations, companies can automatically and trustlessly coordinate with publishers to sell items and settle value. Partnership terms are immutably outlined through their chain of choice to maximize economic efficiency in a secure and transparent manner.\
 \
 Droplinked utilizes a token, DROPS, that streamlines compensation, swapped into whatever form of settlement preferred by an authenticated producer (manufacturer or company) or publisher (website, app or marketplace). The token can be staked by contributors to earn a yield that scales with network growth.
 
@@ -22,13 +22,13 @@ Droplinked utilizes a token, DROPS, that streamlines compensation, swapped into 
 
 <figure><img src=".gitbook/assets/droplinked benefits (1).jpg" alt=""><figcaption><p>droplinked leverages 4 key functions to simplify web3 commerce</p></figcaption></figure>
 
-Droplinked combines four critical functions into a single protocol to simplify web3 commerce for producers and publishers alike while incentivizing contributors with earned ownership in the network. By combining these features, droplinked streamlines inventory management and sales tracking for producers and disintermediates legacy affiliate networks.
+Droplinked combines four critical functions into a single protocol to simplify web3 commerce for producers and publishers while incentivizing contributors with earned ownership in the network. By combining these features, droplinked streamlines inventory management and sales tracking for producers and disintermediates legacy affiliate networks.
 
 ### decentralized registration of products
 
 <figure><img src=".gitbook/assets/droplinked onchain registration slide (2).jpg" alt=""><figcaption><p>Streamlined product registration</p></figcaption></figure>
 
-Producers can register their goods across the blockchain of choice. Each item listed and sale generated is instantly verifiable on-chain with variables associated with the item (color, size, description, quantity, price, commission, etc.). Once a product's attributes have been defined, an NFT is minted which is then fractionalized through [Droplinked's NFT Fractionalizer](https://fractionalizer.droplinked.com), with each NFT representing one unit of the product.
+Producers register their goods across the blockchain of choice. Each item listed and sale generated is instantly verifiable on-chain with variables associated with the listing (color, size, description, quantity, price, commission, etc.). Once a product's attributes have been defined, an NFT is minted which is then fractionalized through [Droplinked's NFT Fractionalizer](https://fractionalizer.droplinked.com), with each NFT representing one unit of the product.
 
 ### authenticated distribution
 
