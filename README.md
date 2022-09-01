@@ -4,7 +4,7 @@ description: droplinked is the decentralized commerce infrastructure protocol
 
 # What is droplinked?
 
-### Problem
+### problem
 
 Historically, centralized platforms and third party intermediaries have taken excess profits across the commerce supply chain by nature of their centralized infrastructure. Droplinked offers a transparent solution through the decentralized registration of products linked to smart contracts.&#x20;
 
@@ -18,19 +18,19 @@ By decentralizing inventory management, droplinked allows authenticated producer
 \
 Droplinked utilizes a token, DROPS, that streamlines compensation, swapped into whatever form of settlement preferred by an authenticated producer (manufacturer or company) or publisher (website, app or marketplace). The token can be staked by contributors to earn a yield that scales with network growth.
 
-### How it Works
+### how it works
 
 <figure><img src=".gitbook/assets/droplinked benefits (1).jpg" alt=""><figcaption><p>droplinked leverages 4 key functions to simplify web3 commerce</p></figcaption></figure>
 
 Droplinked combines four critical functions into a single protocol to simplify web3 commerce for producers and publishers alike while incentivizing contributors with earned ownership in the network. By combining these features, droplinked streamlines inventory management and sales tracking for producers and disintermediates legacy affiliate networks.
 
-### Decentralized Registration of Products
+### decentralized registration of products
 
 <figure><img src=".gitbook/assets/droplinked onchain registration slide (2).jpg" alt=""><figcaption><p>Streamlined product registration</p></figcaption></figure>
 
 Producers can register their goods across the blockchain of choice. Each item listed and sale generated is instantly verifiable on-chain with variables associated with the item (color, size, description, quantity, price, commission, etc.). Once a product's attributes have been defined, an NFT is minted which is then fractionalized through [Droplinked's NFT Fractionalizer](https://fractionalizer.droplinked.com), with each NFT representing one unit of the product.
 
-### Authenticated Distribution
+### authenticated distribution
 
 <figure><img src=".gitbook/assets/authenticated distribution.jpg" alt=""><figcaption><p>Authenticated distribution provides numerous benefits to producers</p></figcaption></figure>
 
@@ -38,7 +38,7 @@ Producers can identify and authorize publishers which may sell and distribute th
 
 Through these publishers, brands can quickly and strategically deploy their products to multiple properties through headless infrastructure integrations while leveraging unique benefits such as token-gating, loyalty programs, and custom campaigns and offers.
 
-### Trustless Settlement
+### trustless settlement
 
 <figure><img src=".gitbook/assets/trustless settlement.jpg" alt=""><figcaption><p>Trustless settlement reduces friction across the commerce supply chain</p></figcaption></figure>
 
@@ -46,7 +46,7 @@ There are numerous participants across the commerce supply chain. Droplinked sim
 
 With every sale, the droplinked network takes a 1% protocol fee which is automatically deposited into the droplinked treasury.
 
-### Network Yield
+### network yield
 
 <figure><img src=".gitbook/assets/network yield.jpg" alt=""><figcaption><p>Sharing in the network's growth through yield from sales</p></figcaption></figure>
 
