@@ -34,9 +34,9 @@ Producers register their goods across the blockchain of choice. Each item listed
 
 <figure><img src=".gitbook/assets/authenticated distribution.jpg" alt=""><figcaption><p>Authenticated distribution provides numerous benefits to producers</p></figcaption></figure>
 
-Producers identify and authorize publishers which may sell and distribute their listings, giving companies the power to select their partners and pre-define contract terms for affiliated sales. As these terms are defined through smart contracts on the droplinked network, companies can simplify their distribution process and rest assured with maximum transparency and settlement guarantees.&#x20;
+Producers identify and authorize publishers which may sell and distribute their listings, giving companies the power to select their partners and pre-define contract terms for affiliated sales. As these terms are defined through smart contracts on the droplinked network, companies now simplify their distribution process and rest assured with maximum transparency and settlement guarantee.&#x20;
 
-Through these publishers, companies quickly and strategically deploy their listings across multiple properties through headless infrastructure integrations while leveraging unique benefits such as token-gating, loyalty programs, and custom campaigns and offers.
+Through authenticated publishers, companies quickly and strategically deploy their listings across multiple properties while leveraging unique benefits such as token-gating, loyalty programs, and custom campaigns and offers.
 
 ### trustless settlement
 
