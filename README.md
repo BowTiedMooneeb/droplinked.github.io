@@ -67,6 +67,27 @@ FLATLAY inc. supports cross-chain interoperability bridges and tooling through a
 * Defined settlement preferences and yield distribution at scale
 * Publisher authorization to sell products with pre-defined splits
 
+Additionally, droplinked can leverage FLATLAY's existing network of brands and affiliates to quickly and seamlessly onboard existing users.&#x20;
+
+### Traction & Timeline
+
+There are two elements of base infrastructure required for droplinked's operation on any given chain:
+
+* [NFT Fractionalizer](https://fractionalizer.droplinked.com/)
+* DIMST registry (Decentralized Inventory Management and Sales Tracking)
+
+These base components of the droplinked protocol have already been built and deployed on the Stacks network. Infrastructure buildout is currently underway for Casper, Solana, Hedera Hashgraph, and Ripple networks, with expected completion in Q1 2023. Polygon, ethereum, near, and flow are in the pipeline.
+
+Deployment on each of these networks will allow for commerce settlement in the native token of each respective network and will serve as the foundation for cross-chain interoperability bridges.
+
+&#x20;Droplinked testnet development and mainnet launch are expected in 2023
+
+Additionally, droplinked has established partnerships with several projects and platforms that serve as ecosystem gateways. A sampling of these is listed below.
+
+<figure><img src=".gitbook/assets/project platforms.jpg" alt=""><figcaption><p>Established partnerships</p></figcaption></figure>
+
+
+
 
 
 ****
