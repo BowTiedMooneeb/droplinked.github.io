@@ -1,4 +1,4 @@
-# Tokenomics
+# tokenomics
 
 DROPS token powers the networks decentralized governance and incentivizes long-term engagement of network contributors providing an earned yield.
 
@@ -6,7 +6,7 @@ DROPS token powers the networks decentralized governance and incentivizes long-t
 
 ### Emissions
 
-Aside from pre-allocated supply tokens used to incentivize investment and development, the only way for new DROPS tokens to be minted is through sales activity related to smart product contract (SPC) listings. These new tokens are allocated to contributors along the commerce supply chain, with pre-defined splits defined by the producer. Tokens are only  distributed by the droplinked protocol once a sale is recorded on-chain. As such, the amount of tokens paid to producers and publishers is variable, with the&#x20;
+Aside from pre-allocated supply tokens used to incentivize investment and development, the only way for new DROPS tokens to be minted is through sales activity related to smart product contract (SPC) listings. These new tokens are allocated to contributors along the commerce supply chain, with pre-defined splits defined by the producer. Tokens are only  distributed by the droplinked protocol once a sale is recorded on-chain. As such, the aggregate amount of tokens paid to producers and publishers is variable, leading to a variable total supply based upon network activity.
 
 |  Pre-Allocated Supply | Amount (DROPS) |
 | :-------------------: | :------------: |
