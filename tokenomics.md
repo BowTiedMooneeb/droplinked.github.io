@@ -29,9 +29,9 @@ This allocation is reserved for the decentralized registration of products linke
 
 By default all product listings re-circulate 1% of every sale generated back into the droplinked treasury vault. Vault disbursements are pegged to deposited assets used for campaign and promotional activities with authenticated partners (brands, retailers, artists and projects) adopting the Droplinked network. This incorporates any dapp, marketplace or company looking to streamline community marketing efforts through a native token with customers and creators.
 
-#### Droplinked Treasury Vault
+#### droplinked treasury vault
 
-Treasury accepts/retains USD/USDC/BTC/ETH/STX and more. Threshold milestones trigger yields for the total amount of gross merchandise value sold across the network that qualify towards treasury recontribution.
+Treasury accepts and retains USD/USDC/BTC/ETH/STX and more. Threshold milestones trigger yield payouts based on phases for the total amount of gross merchandise value sold across the network.
 
 
 
