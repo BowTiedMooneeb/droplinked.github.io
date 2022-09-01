@@ -6,7 +6,7 @@ This site provides documentation for the tools necessary to interact with dropli
 
 This documentation is geared towards users, system administrators and technical resources wishing to understand and integrate with the protocol.
 
-### Droplinked Developer Sandbox
+### droplinked Developer Sandbox
 
 There are two web3 libraries that provide base infrastructure required for droplinked's operation on any given chain:
 
@@ -28,7 +28,7 @@ The NFT fractionalizer and DIMST registry have already been built and deployed o
 
 Deployment on each of these networks will allow for commerce settlement in the native token of each respective network and will serve as the foundation for cross-chain interoperability bridges.
 
-Droplinked 1.0 testnet development will begin in 2023. Droplinked 1.0 will tie together the base infrastructure to allow for a holistic cross-chain protocol, complete with token contracts, droplinked treasury, and staking functionality.&#x20;
+droplinked 1.0 testnet development will begin in 2023. droplinked 1.0 will tie together the base infrastructure to allow for a holistic cross-chain protocol, complete with token contracts, droplinked treasury, and staking functionality.&#x20;
 
 
 
