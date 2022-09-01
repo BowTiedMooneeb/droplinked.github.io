@@ -2,4 +2,4 @@
 
 * [What is droplinked?](README.md)
 * [droplinked tools](droplinked-tools.md)
-* [Tokenomics](tokenomics.md)
+* [tokenomics](tokenomics.md)
