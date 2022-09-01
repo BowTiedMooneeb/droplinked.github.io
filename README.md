@@ -6,7 +6,7 @@ description: droplinked is the decentralized commerce infrastructure network
 
 ### Problem
 
-Historically, centralized platforms and third party intermediaries have taken excess profits across the commerce supply chain by nature of their centralized infrastructure. Droplinked offers a low-cost solution through the decentralized registration of products linked to smart contracts.&#x20;
+Historically, centralized platforms and third party intermediaries have taken excess profits across the commerce supply chain by nature of their centralized infrastructure. Droplinked offers a transparent solution through the decentralized registration of products linked to smart contracts.&#x20;
 
 ### droplinked
 
@@ -53,22 +53,3 @@ With every sale, the droplinked network takes a 1% protocol fee which is automat
 1% of the value of all sales is automatically taken as a fee and reserved in the droplinked treasury. Additionally, Producers and Publishers can choose to receive a portion of their settlement value in DROPS tokens. For whatever portion they choose to receive in DROPS, a proportionate amount of the fiat value of their settlement is also reserved in the droplinked treasury.
 
 The treasury grows through the protocol fee as gross network sales increase. Contributors are entitled to the network yield through staked DROPS. This provides a mechanism for rewarding early adopters, who can quickly generate a stake in the future growth of the network.
-
-### Traction & Timeline
-
-There are two elements of base infrastructure required for droplinked's operation on any given chain:
-
-* [NFT Fractionalizer](https://fractionalizer.droplinked.com/)
-* DIMST registry (Decentralized Inventory Management and Sales Tracking)
-
-These base components of the droplinked protocol have already been built and deployed on the Stacks network. Infrastructure buildout is currently underway for Casper, Solana, Hedera Hashgraph, and Ripple networks, with expected completion in Q1 2023. Polygon, ethereum, near, and flow are in the pipeline.
-
-Deployment on each of these networks will allow for commerce settlement in the native token of each respective network and will serve as the foundation for cross-chain interoperability bridges.
-
-Droplinked 1.0 testnet development will begin in 2023. Droplinked 1.0 will tie together the base infrastructure to allow for a holistic cross-chain protocol, complete with token contracts, droplinked treasury, and staking functionality.&#x20;
-
-
-
-
-
-****
