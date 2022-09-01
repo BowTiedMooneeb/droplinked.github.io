@@ -54,21 +54,6 @@ With every sale, the droplinked network takes a 1% protocol fee which is automat
 
 The treasury grows through the protocol fee as gross network sales increase. Contributors are entitled to the network yield through staked DROPS. This provides a mechanism for rewarding early adopters, who can quickly generate a stake in the future growth of the network.
 
-### Driving Protocol Adoption
-
-<figure><img src=".gitbook/assets/protocol adoption.jpg" alt=""><figcaption><p>Live product registration example</p></figcaption></figure>
-
-FLATLAY inc. is the company contracted by the droplinked foundation for enterprise retailers looking to leverage web3 commerce infrastructure **at scale.**
-
-FLATLAY inc. supports cross-chain interoperability bridges and tooling through an enterprise console that enables:
-
-* Batch inventory registration and management
-* Tracking and attribution of on-chain interactions and sales
-* Defined settlement preferences and yield distribution at scale
-* Publisher authorization to sell products with pre-defined splits
-
-Additionally, droplinked can leverage FLATLAY's existing network of brands and affiliates to quickly and seamlessly onboard existing users.&#x20;
-
 ### Traction & Timeline
 
 There are two elements of base infrastructure required for droplinked's operation on any given chain:
@@ -80,11 +65,9 @@ These base components of the droplinked protocol have already been built and dep
 
 Deployment on each of these networks will allow for commerce settlement in the native token of each respective network and will serve as the foundation for cross-chain interoperability bridges.
 
-&#x20;Droplinked testnet development and mainnet launch are expected in 2023
+Droplinked 1.0 testnet development will begin in 2023. Droplinked 1.0 will tie together the base infrastructure to allow for a holistic cross-chain protocol, complete with token contracts, droplinked treasury, and staking functionality.&#x20;
 
 Additionally, droplinked has established partnerships with several projects and platforms that serve as ecosystem gateways. A sampling of these is listed below.
-
-<figure><img src=".gitbook/assets/project platforms.jpg" alt=""><figcaption><p>Established partnerships</p></figcaption></figure>
 
 
 
