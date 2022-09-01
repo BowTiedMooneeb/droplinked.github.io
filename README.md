@@ -44,12 +44,14 @@ Through authenticated publishers, companies quickly and strategically deploy the
 
 There are numerous participants across the commerce supply chain. Droplinked simplifies payment to contributors by recording all sales settlement on-chain, with immutable splits defined to producers, owners, distributors, affiliates and partners.
 
+Everyone benefits from transparent settlement with the assurance that their payouts are immutably disbursed based on validated contributions. No longer are there inefficient 3rd party processes delaying payment settlement. This resolves fraudulent sales attribution infamously associated with legacy affiliate infrastructure by leveraging smart product contracts.&#x20;
+
 With every sale, the droplinked network takes a 1% protocol fee which is automatically deposited into the droplinked treasury.
 
 ### network yield
 
 <figure><img src=".gitbook/assets/network yield.jpg" alt=""><figcaption><p>Sharing in the network's growth through yield from sales</p></figcaption></figure>
 
-1% of the value of all sales is automatically taken as a fee and reserved in the droplinked treasury. Additionally, Producers and Publishers can choose to receive a portion of their settlement value in DROPS tokens. For whatever portion they choose to receive in DROPS, a proportionate amount of the fiat value of their settlement is also reserved in the droplinked treasury.
+1% of the value of every validated sale is automatically taken as a network fee and reserved into the droplinked treasury. Additionally, producers and publishers can choose to receive a portion of their settlement value in DROPS tokens. For whatever portion they choose to receive in DROPS, a proportionate amount of the fiat value of their settlement is also reserved in the droplinked treasury.
 
-The treasury grows through the protocol fee as gross network sales increase. Contributors are entitled to the network yield through staked DROPS. This provides a mechanism for rewarding early adopters, who can quickly generate a stake in the future growth of the network.
+The treasury grows through the protocol fee as gross network sales increase. Contributors are entitled to the network yield through staked DROPS. This provides a mechanism for rewarding early adopters as participants generating a stake in the future growth of the network.
