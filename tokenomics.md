@@ -1,8 +1,19 @@
 # Tokenomics
 
-![](<.gitbook/assets/Droplinked Tokenomics.jpg>)
+DROPS token powers the networks decentralized governance and incentivizes long-term engagement of network contributors providing an earned yield.
 
-Tokens associated with Droplinked smart product contract listings and the strategic treasury vault are locked. The contract can only pay adopters and circulate an allocated percentage of holdings once a transaction is recorded, milestone met or total GMV transaction threshold is reached to reward the entire network of adopters and contributors.
+<figure><img src=".gitbook/assets/Tokenomics (3).jpg" alt=""><figcaption></figcaption></figure>
+
+### Emissions
+
+Aside from pre-allocated supply tokens used to incentivize investment and development, the only way for new DROPS tokens to be minted is through sales activity related to smart product contract (SPC) listings. These new tokens are allocated to contributors along the commerce supply chain, with pre-defined splits defined by the producer. Tokens are only  distributed by the droplinked protocol once a sale is recorded on-chain. As such, the amount of tokens paid to producers and publishers is variable, with the&#x20;
+
+|  Pre-Allocated Supply | Amount (DROPS) |
+| :-------------------: | :------------: |
+|       Investors       |   25,000,000   |
+|   Team & Development  |   15,000,000   |
+|   C-Corp Allocation   |   10,000,000   |
+| Marketing & Promotion |   10,000,000   |
 
 Token distribution is locked into a 36 month duration from mainnet launch for the team and acquirers of the SAFE w/ token warrant issuance.
 
@@ -26,3 +37,6 @@ Treasury accepts/retains USD/USDC/BTC/ETH/STX and more. Threshold milestones tri
 
 
 
+
+
+Tokens associated with droplinked smart product contract (SPC) listings are emitted based upon sales activity on the network
