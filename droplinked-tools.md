@@ -6,12 +6,12 @@ This site provides documentation for the tools necessary to interact with dropli
 
 This documentation is geared towards users, system administrators and technical resources wishing to understand and integrate with the protocol.
 
-### droplinked Developer Sandbox
+### droplinked developer sandbox
 
 There are two web3 libraries that provide base infrastructure required for droplinked's operation on any given chain:
 
 * [**NFT Fractionalizer**](https://fractionalizer.droplinked.com/)****
-* **DIMST registry by chain** (Decentralized Inventory Management and Sales Tracking)
+* **DIMST registry by chain of choice** (Decentralized Inventory Management and Sales Tracking)
 
 To interact with the droplinked protocol, droplinked provides three key tools:
 
@@ -20,15 +20,15 @@ To interact with the droplinked protocol, droplinked provides three key tools:
 * **DIMST Console**
   * CLI and UI for simple execution of product registration, inventory management, sales tracking, and batch operations
 * **Embeddables**
-  * Headless embeddable units for inventory display allow producers and publishers to quickly and easily embed droplinked integrated storefronts onto their pages and properties
+  * Headless embeddable units for inventory display that allows producers and publishers to quickly and easily embed droplinked registered inventory onto their pages and properties
 
 ### Timeline
 
-The NFT fractionalizer and DIMST registry have already been built and deployed on the Stacks network. Infrastructure buildout is currently underway for Casper, Solana, Hedera Hashgraph, and Ripple networks, with expected completion in Q1 2023. Polygon, ethereum, near, and flow are in the pipeline.
+The NFT fractionalizer and DIMST registry are available for the Stacks network. Infrastructure buildout is currently underway for Casper, Solana, Hedera Hashgraph, and Ripple networks, with expected completion in Q1 2023. Polygon, ethereum, near, and flow are in the pipeline.
 
-Deployment on each of these networks will allow for commerce settlement in the native token of each respective network and will serve as the foundation for cross-chain interoperability bridges.
+Deployment on each of these networks will allow for commerce settlement in the native token for each respective networks and will serve as the foundation for cross-chain interoperability bridges to droplinkeds protocol.
 
-droplinked 1.0 testnet development will begin in 2023. droplinked 1.0 will tie together the base infrastructure to allow for a holistic cross-chain protocol, complete with token contracts, droplinked treasury, and staking functionality.&#x20;
+droplinked 1.0 testnet development is underway. droplinked 1.0 will tie together the base infrastructure that allows for a holistic cross-chain protocol, complete with token contracts, droplinked treasury, and staking functionality.&#x20;
 
 
 
