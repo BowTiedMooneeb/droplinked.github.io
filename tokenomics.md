@@ -21,11 +21,9 @@ Token distribution is locked into a 24 month duration with a 1 year release clif
 
 ### network milestones
 
-Yield payouts to DROPS stakers occur when the network hits sales milestones and are as follows:
+Yield payouts to DROPS stakers occur when the network hits GMV sales milestones and are detailed in the table below. As DROPS tokens are issued in proportion to total network sales, we can estimate outstanding DROPS tokens at each milestone, along with the estimated annualized yield for stakers. In the table below, \~55M DROPS tokens are assumed to be unlocked to investors, team, etc. between Phase 2 and Phase 4.
 
-<figure><img src=".gitbook/assets/unlock.svg" alt=""><figcaption></figcaption></figure>
-
-###
+<figure><img src=".gitbook/assets/unlock.svg" alt=""><figcaption><p>Network Yield Unlock Phases</p></figcaption></figure>
 
 ### framework & definitions
 
@@ -33,18 +31,11 @@ Yield payouts to DROPS stakers occur when the network hits sales milestones and 
 
 This allocation is reserved for the decentralized registration of products linked to smart contracts. When a manufacturer or producer lists an item through droplinked’s decentralized inventory management system, they define their payout amounts along with the % or commission fee paid to a publisher or promoter for generating the sale. By default, every conversion contributes 1% of each sale as a network fee back into the droplinked treasury vault.
 
-#### droplinked SPC transactions
-
-By default all product listings re-circulate 1% of every sale generated back into the droplinked treasury vault. Vault disbursements are pegged to deposited assets used for campaign and promotional activities with authenticated partners (brands, retailers, artists and projects) adopting the droplinked network. This incorporates any dapp, marketplace or company looking to streamline community marketing efforts through a native token with customers and creators.
-
 #### droplinked treasury vault
 
-Treasury accepts and retains USD/USDC/BTC/ETH/STX and more. Threshold milestones trigger yield payouts based on phases for the total amount of gross merchandise value sold across the network.
+Treasury accepts and retains USD/USDC/BTC/ETH/STX/SOL and more. Threshold milestones trigger yield payouts based on phases for the total amount of gross merchandise value sold across the network.
 
 
 
 
 
-
-
-Tokens associated with droplinked smart product contract (SPC) listings are emitted based upon sales activity on the network
