@@ -21,7 +21,7 @@ Token distribution is locked into a 24 month duration with a 1 year release clif
 
 ### network milestones
 
-Yield payouts to DROPS stakers occur when the network hits sales milestones. These milestones are&#x20;
+Yield payouts to DROPS stakers occur when the network hits sales milestones and are as follows:
 
 <figure><img src=".gitbook/assets/unlock.svg" alt=""><figcaption></figcaption></figure>
 
