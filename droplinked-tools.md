@@ -12,7 +12,7 @@ There are two web3 libraries that provide base infrastructure required for dropl
 
 * [**NFT Fractionalizer**](https://fractionalizer.droplinked.com/)****
 * **DIMST registry by chain of choice** (Decentralized Inventory Management and Sales Tracking)
-* **Droplinked events dapp** (Proof of Attendance for on-chain ticket event management)
+* ****[**Droplinked events dapp**](https://app.gitbook.com/s/NnSJON87lgNKuwDs2pEl/introduction/droplinked-events) (Proof of Attendance for on-chain ticket event management)
 
 To interact with the droplinked protocol, droplinked provides three key tools:
 

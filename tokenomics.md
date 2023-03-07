@@ -1,6 +1,6 @@
 # tokenomics
 
-DROPS token powers the networks decentralized governance and incentivizes long-term engagement for network contributors by providing an earned yield.
+DROPS token powers the networks decentralized governance and incentivizes long-term engagement for network contributors by providing an earned yield to all true contributors staking.
 
 <figure><img src=".gitbook/assets/Tokenomics (3).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -33,7 +33,7 @@ This allocation is reserved for the decentralized registration of products linke
 
 #### droplinked treasury vault
 
-Treasury accepts and retains USD/USDC/BTC/ETH/STX/SOL and more. Threshold milestones trigger yield payouts based on phases for the total amount of gross merchandise value sold across the network.
+Treasury accepts and retains USD/USDC/BTC/ETH/STX/SOL and more. The tokenized yield stored into the droplinked treasury will be converted to USDC to maintain value>minimize value volatility. Threshold milestones trigger yield payouts based on phases for the total amount of gross merchandise value sold across the network.
 
 
 
