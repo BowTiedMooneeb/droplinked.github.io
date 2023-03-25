@@ -11,8 +11,8 @@ This documentation is geared towards users, system administrators and technical 
 There are two web3 libraries that provide base infrastructure required for droplinked's operation on any given chain:
 
 * [**NFT Fractionalizer**](https://fractionalizer.droplinked.com/)****
-* **DIMST registry by chain of choice** (Decentralized Inventory Management and Sales Tracking)
-* ****[**Droplinked events dapp**](https://app.gitbook.com/s/NnSJON87lgNKuwDs2pEl/introduction/droplinked-events) (Proof of Attendance for on-chain ticket event management)
+* **DIMST registry by chain of choice** (Decentralized Inventory Management and Sales Tracking) - Stacks, [Casper](https://github.com/FLATLAY/droplinked\_casper), [NEAR](https://github.com/FLATLAY/Droplinked-NEAR-Contract/blob/main/README.md), [SKALE](https://github.com/FLATLAY/droplinked\_skale), [XRPL](https://github.com/FLATLAY/droplinked-ripple/blob/main/README.md)
+* ****[**Droplinked events dapp**](http://localhost:5000/s/NnSJON87lgNKuwDs2pEl/introduction/droplinked-events) (Proof of Attendance for on-chain ticket event management)
 
 To interact with the droplinked protocol, droplinked provides three key tools:
 
