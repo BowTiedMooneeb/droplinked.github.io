@@ -1,7 +1,7 @@
 ---
 description: >-
-  architecture overview of how the infrastructure operates across the protocol
-  tools and libraries
+  an architecture overview for how the infrastructure operates across the
+  droplinked protocol with the provided tools and libraries
 ---
 
 # tech framework
