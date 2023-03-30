@@ -1,4 +1,4 @@
-# droplinked tools
+# droplinked toolbox
 
 Learn how to use droplinked tools and endpoints to unlock the power of web3 commerce for as a producer or publisher.
 
@@ -12,7 +12,7 @@ There are two web3 libraries that provide base infrastructure required for dropl
 
 * [**NFT Fractionalizer**](https://fractionalizer.droplinked.com/)****
 * **DIMST registry by chain of choice** (Decentralized Inventory Management and Sales Tracking) - [Stacks](https://gitlab.com/flatlay/droplinked-contract), [Casper](https://github.com/FLATLAY/droplinked\_casper), [NEAR](https://github.com/FLATLAY/Droplinked-NEAR-Contract/blob/main/README.md), [SKALE](https://github.com/FLATLAY/droplinked\_skale), [XRPL](https://github.com/FLATLAY/droplinked-ripple/blob/main/README.md)
-* ****[**Droplinked events dapp**](http://localhost:5000/s/NnSJON87lgNKuwDs2pEl/introduction/droplinked-events) (Proof of Attendance for on-chain ticket event management)
+* ****[**Droplinked events dapp**](http://localhost:5000/s/NnSJON87lgNKuwDs2pEl/introduction/droplinked-events) (Proof of Attendance for on-chain ticket and event management - POAP)
 
 To interact with the droplinked protocol, droplinked provides three key tools:
 
