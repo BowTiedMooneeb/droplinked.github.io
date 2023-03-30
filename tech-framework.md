@@ -1,7 +1,7 @@
 ---
 description: >-
-  an architecture overview for how the protocol infrastructure operates with
-  provided tools and libraries
+  an architecture overview of how the protocol infrastructure operates with the
+  system tools and support libraries
 ---
 
 # tech framework
