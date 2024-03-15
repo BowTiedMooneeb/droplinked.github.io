@@ -25,9 +25,7 @@ To interact with the droplinked protocol, droplinked provides three key tools:
 
 ### Timeline
 
-The NFT fractionalizer and DIMST registry are available for the Stacks network. Infrastructure buildout is currently underway for Casper, Polygon, Ethereum, NEAR, and SKALE with expected completion in Q1 2023. Solana, Hedera Hashgraph, and Ripple networks, are in the pipeline.
-
-Deployment on each of these networks will allow for commerce settlement in the native token for each respective networks and will serve as the foundation for cross-chain interoperability bridges to droplinkeds protocol.
+Deployment across these networks allows for commerce settlement in the native token for each respective network and will serve as the foundation for cross-chain interoperability bridges to droplinkeds protocol.
 
 droplinked 1.0 testnet development is underway. droplinked 1.0 will tie together the base infrastructure that allows for a holistic cross-chain protocol, complete with token contracts, droplinked treasury, and staking functionality.&#x20;
 
