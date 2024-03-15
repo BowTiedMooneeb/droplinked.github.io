@@ -8,13 +8,13 @@
 
 [github](https://github.com/nokhodian)
 
-### erfan yeganegi \</> sr. blockchain lead dev
-
-[github](https://github.com/erfanyeganegi)
-
 ### matin ghaisvand \</> lead blockchain dev
 
 [github](https://github.com/k3rn3lpanicc)
+
+### erfan yeganegi \</> sr. blockchain lead dev
+
+[github](https://github.com/erfanyeganegi)
 
 ### amin zadeh \</> blockchain dev
 
