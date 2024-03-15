@@ -8,27 +8,51 @@
 
 [github](https://github.com/nokhodian)
 
-### matin ghaisvand \</> lead blockchain dev
+### matin g. \</> lead blockchain dev
 
 [github](https://github.com/k3rn3lpanicc)
 
-### erfan yeganegi \</> sr. blockchain lead dev
+### erfan y. \</> sr. blockchain dev
 
 [github](https://github.com/erfanyeganegi)
 
-### amin zadeh \</> blockchain dev
+### behdad m. \</> scrum master
 
-[gitlab](https://gitlab.com/Aminmlkzd)
+[github](https://github.com/behdadmns)
 
-### behdad mansouri \</> frontend infrastructure dev
+### aahmadreza n. \</> backend engineer
 
-[gitlab](https://gitlab.com/Behdadmns)
+[github](https://github.com/RezaNorm)
 
-### hasan safari \</> backend infrastructure dev
+### iman v. \</> backend engineer
 
-[gitlab](https://gitlab.com/hasan5afari)
+[github](https://github.com/veiis)
 
-### jacob  cantu \</> operations lead
+### mohsen m. \</> backend engineer
 
-[github](https://github.com/BowTiedMooneeb)
+[github](https://github.com/muhcen)
+
+### andrew l. \</> enterprise platform
+
+[github](https://github.com/aliutiev)
+
+### majid h. \</> frontend engineer
+
+[github](https://github.com/MajidHosseinzadeh)
+
+### aref u. \</> frontend engineer
+
+[github](https://github.com/ArefOrumiehei)
+
+### ehsen k. \</> frontend engineer
+
+[github](https://github.com/EhsanKinux)
+
+### mahdi p. \</> frontend engineer
+
+[github](https://github.com/mahdipoursepahi)
+
+### alireza t. \</> ux/ui designer
+
+### sahar  m. \</> operations lead
 
