@@ -2,7 +2,7 @@
 description: droplinked is the decentralized commerce infrastructure protocol
 ---
 
-# What is droplinked?
+# what is droplinked?
 
 ### problem
 
@@ -28,7 +28,7 @@ Droplinked combines four critical functions into a single protocol to simplify w
 
 <figure><img src=".gitbook/assets/droplinked onchain registration slide (2).jpg" alt=""><figcaption><p>Streamlined product registration</p></figcaption></figure>
 
-Producers register their goods across the blockchain of choice. Each item listed and sale generated is instantly verifiable on-chain with variables associated with the listing (color, size, description, quantity, price, commission, etc.). Once a product's attributes have been defined, an NFT is minted by listing SKU which is then fractionalized through [droplinked's NFT fractionalizer](https://fractionalizer.droplinked.com). Each NFT fraction represents one product unit for the listing.
+Producers register their goods across the blockchain of choice. Each item listed and sale generated is instantly verifiable on-chain with variables associated with the listing (color, size, description, quantity, price, commission, etc.). Once a product's attributes have been defined, an NFT is minted by listed SKU. Each NFT represents one product unit for the listing.
 
 ### authenticated distribution
 

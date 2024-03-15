@@ -8,12 +8,7 @@ DROPS token powers the networks decentralized governance and incentivizes long-t
 
 Aside from the pre-allocated supply tokens used to incentivize investment and development, the only way for new DROPS tokens to be generated is through sales activity related to smart product contract (SPC) listings. These new tokens are allocated to contributors along the commerce supply chain, with pre-defined splits defined by the producer. Tokens are only distributed by the droplinked protocol once a sale is recorded and settled on-chain. As such, the aggregate amount of tokens paid to producers and publishers is variable, leading to a variable total supply based upon network activity.
 
-|  pre-allocated supply  | amount (DROPS) |
-| :--------------------: | :------------: |
-|        investors       |   25,000,000   |
-|   team & development   |   15,000,000   |
-|    c corp allocation   |   10,000,000   |
-| marketing & promotions |   10,000,000   |
+<table><thead><tr><th width="384" align="center">pre-allocated supply</th><th align="center">amount (DROPS)</th></tr></thead><tbody><tr><td align="center">investors</td><td align="center">25,000,000</td></tr><tr><td align="center">team &#x26; development</td><td align="center">15,000,000</td></tr><tr><td align="center">c corp allocation</td><td align="center">10,000,000</td></tr><tr><td align="center">marketing &#x26; promotions</td><td align="center">10,000,000</td></tr></tbody></table>
 
 Token distribution is locked into a 24 month duration with a 1 year release cliff from mainnet launch for the team and acquirers of the token warrant.
 
