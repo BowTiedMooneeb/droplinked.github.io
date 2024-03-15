@@ -22,6 +22,8 @@ To interact with the droplinked protocol, droplinked provides three key tools:
   * CLI and UI for simple execution of product registration, inventory management, sales tracking, and batch operations
 * **Embeddables**
   * Headless embeddable units for inventory display that allows producers and publishers to quickly and easily embed droplinked registered inventory onto their pages and properties
+* Metamask Snap
+  * A direct integration with the native MetaMask userbase to interact with the protocol to create decentralized shopfronts, product drops and checkout
 
 ### Timeline
 
