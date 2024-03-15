@@ -12,7 +12,7 @@
 
 [github](https://github.com/erfanyeganegi)
 
-### matin ghaisvand \</> lead blockchain lead dev
+### matin ghaisvand \</> lead blockchain dev
 
 [github](https://github.com/k3rn3lpanicc)
 
