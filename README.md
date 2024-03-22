@@ -1,8 +1,8 @@
 ---
-description: droplinked is the decentralized commerce infrastructure protocol
+description: The decentralized commerce infrastructure protocol
 ---
 
-# what is droplinked?
+# droplinked
 
 ### problem
 
