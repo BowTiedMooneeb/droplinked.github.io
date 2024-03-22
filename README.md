@@ -12,9 +12,9 @@ Centralized platforms and third party intermediaries have taken excess profits a
 
 <figure><img src=".gitbook/assets/droplinked title slide (2).jpg" alt=""><figcaption><p>droplinked </p></figcaption></figure>
 
-Droplinked is a commerce infrastructure network operating as a decentralized inventory management and sales tracking system for digital and physical goods.&#x20;
+Droplinked is the commerce infrastructure network operating a decentralized inventory management and sales tracking system for digital and physical goods.&#x20;
 
-By decentralizing inventory management, droplinked allows authenticated producers to easily tie digital or physical products to NFTs, and distribute these quickly and transparently to publishers that help to market and sell their listings. Through multiple blockchain integrations, companies can automatically and trustlessly coordinate with publishers to sell items and settle value. Partnership terms are immutably outlined through their chain of choice to maximize economic efficiency in a secure and transparent manner.\
+By decentralizing inventory management, droplinked allows authenticated producers to easily tie digital or physical products tied to NFTs in order to distribute transparently to publishers marketing and selling listings. Through multiple blockchain integrations, participants can automatically and trustlessly coordinate with publishers to sell items and settle value. Partnership terms are immutably outlined through their chain of choice to maximize economic efficiency in a secure and transparent manner.\
 \
 Droplinked utilizes a token, DROPS, that streamlines compensation, swapped into whatever form of settlement preferred by an authenticated producer (manufacturer or company) or publisher (website, app or marketplace). The token can be staked by contributors to earn a yield that scales with network growth.
 
