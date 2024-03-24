@@ -20,8 +20,8 @@ To interact with the droplinked protocol, droplinked provides three key tools:
   * Use crypto wallet credentials to authenticate and interact with the droplinked protocol
 * **DIMST Console**
   * CLI and UI for simple execution of product registration, inventory management, sales tracking, and batch operations
-* **Embeddables**
-  * Headless embeddable units for inventory display that allows producers and publishers to quickly and easily embed droplinked registered inventory onto their pages and properties
+* **Embeddable Cards**
+  * Headless embeddable units for inventory display that allows producers and publishers to quickly and easily embed droplinked registered inventory onto their own pages,  properties and sites with an iFrame component that operates completely decentralized or with minimal centralized functionalities for web2 and web3 enablement
 * **Metamask Snap**
   * A direct integration with the native MetaMask userbase to interact with the protocol to create decentralized shopfronts, product drops and checkout
 
