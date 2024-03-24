@@ -10,7 +10,7 @@ Aside from the pre-allocated supply tokens used to incentivize investment and de
 
 <table><thead><tr><th width="384" align="center">pre-allocated supply</th><th align="center">amount (DROPS)</th></tr></thead><tbody><tr><td align="center">investors</td><td align="center">25,000,000</td></tr><tr><td align="center">team &#x26; development</td><td align="center">15,000,000</td></tr><tr><td align="center">c corp allocation</td><td align="center">10,000,000</td></tr><tr><td align="center">marketing &#x26; promotions</td><td align="center">10,000,000</td></tr></tbody></table>
 
-Token distribution is locked into a 24 month duration with a 1 year release cliff from mainnet launch for the team and acquirers of the token warrant.
+Token distribution is released over a 36 month period with a 1 year release cliff from TGE launch for both the team and acquirers of the token warrant.
 
 <figure><img src=".gitbook/assets/chart.svg" alt=""><figcaption></figcaption></figure>
 
