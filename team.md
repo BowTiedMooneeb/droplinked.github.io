@@ -54,5 +54,7 @@
 
 ### alireza t. \</> ux/ui designer
 
-### sahar  m. \</> operations lead
+### sahar  m. \</> operations
+
+### saghar  m. \</> am
 
